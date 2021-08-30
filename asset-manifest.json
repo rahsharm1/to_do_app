@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rahsharm1/to_do_app.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/rahsharm1/to_do_app.git/static/js/main.9ef5063e.chunk.js",
+    "main.js.map": "/rahsharm1/to_do_app.git/static/js/main.9ef5063e.chunk.js.map",
+    "runtime-main.js": "/rahsharm1/to_do_app.git/static/js/runtime-main.8b4f34db.js",
+    "runtime-main.js.map": "/rahsharm1/to_do_app.git/static/js/runtime-main.8b4f34db.js.map",
+    "static/js/2.d9c512a5.chunk.js": "/rahsharm1/to_do_app.git/static/js/2.d9c512a5.chunk.js",
+    "static/js/2.d9c512a5.chunk.js.map": "/rahsharm1/to_do_app.git/static/js/2.d9c512a5.chunk.js.map",
+    "static/js/3.6ad45b2f.chunk.js": "/rahsharm1/to_do_app.git/static/js/3.6ad45b2f.chunk.js",
+    "static/js/3.6ad45b2f.chunk.js.map": "/rahsharm1/to_do_app.git/static/js/3.6ad45b2f.chunk.js.map",
+    "index.html": "/rahsharm1/to_do_app.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/rahsharm1/to_do_app.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.d9c512a5.chunk.js.LICENSE.txt": "/rahsharm1/to_do_app.git/static/js/2.d9c512a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b4f34db.js",
+    "static/js/2.d9c512a5.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.9ef5063e.chunk.js"
+  ]
+}
